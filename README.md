@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-opus-eponymous&color=grey)
 
 
-# main accounts
+# other accounts
 
 [@hermesdisorder](https://github.com/hermesdisorder) [@hadestovvn](https://github.com/HADESTOVVN) [georgesquared](https://github.com/georgesquared)
 
