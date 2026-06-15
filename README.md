@@ -5,7 +5,7 @@
 
 # other accounts
 
-[@hermesdisorder](https://github.com/hermesdisorder) [@hadestovvn](https://github.com/HADESTOVVN) [georgesquared](https://github.com/georgesquared)
+[hermesdisorder](https://github.com/hermesdisorder) [hadestovvn](https://github.com/HADESTOVVN) [georgesquared](https://github.com/georgesquared) [paris-of-troy](https://github.com/paris-of-troy)
 
 <p align="center">
 	
