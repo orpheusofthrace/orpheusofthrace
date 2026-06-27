@@ -5,7 +5,7 @@
 
 <sup><sub>other accounts</sub></sup>
 
-<sup><sub>[hermesdisorder](https://github.com/hermesdisorder) [hadestovvn](https://github.com/HADESTOVVN) [georgesquared](https://github.com/georgesquared) [paris-of-troy](https://github.com/paris-of-troy)</sub></sup>
+<sup><sub>[hermesdisorder](https://github.com/hermesdisorder) [hadestovvn](https://github.com/HADESTOVVN) [paris-of-TR0Y](https://github.com/paris-of-TR0Y) </sub></sup>
 
 <p align="center">
 	
