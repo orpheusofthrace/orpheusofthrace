@@ -9,7 +9,7 @@
 
 <p align="center">
 	
-<sup><sub>[strawpage](https://hermesdisorder.straw.page/)</sub></sup> <sup><sub>[rentry](https://rentry.co/holymoly-)</sub></sup>  <sup><sub>[新book](https://hadestown.atabook.org/)</sub></sup> <sup><sub>[prns.page](https://en.pronouns.page/@orpheusofthrace)</sub>
+<sup><sub>[strawpage](https://hermesdisorder.straw.page/)</sub></sup> <sup><sub>[rentry](https://rentry.co/holymoly-)</sub></sup>  <sup><sub>[新book](https://hadestown.atabook.org/)</sub></sup> <sup><sub>[prns.page](https://en.pronouns.page/@edward-hyde)</sub>
 
 </p>
 <p align="center">
