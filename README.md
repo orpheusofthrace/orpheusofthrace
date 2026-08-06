@@ -5,7 +5,7 @@
 
 <sup><sub>other accounts</sub></sup>
 
-<sup><sub>[hermesdisorder](https://github.com/hermesdisorder) [hadestovvn](https://github.com/HADESTOVVN) [mr-edwardhyde](https://github.com/mr-edwardhyde) [dr-henry-jekyll](https://github.com/dr-henry-jekyll) </sub></sup>
+<sup><sub>[august-sigma](https://github.com/august-sigma) [hadestovvn](https://github.com/HADESTOVVN) [mr-edwardhyde](https://github.com/mr-edwardhyde) [dr-henry-jekyll](https://github.com/dr-henry-jekyll) </sub></sup>
 
 <p align="center">
 	
